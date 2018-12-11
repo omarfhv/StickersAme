@@ -1,0 +1,225 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Stickers America",
+      "publisher": "ToposDeus",
+      "tray_image_file": "logoa1.png",
+      "publisher_email":"toposdeus@gmail.com",
+      "publisher_website": "https://www.facebook.com/elmemedeldeporte/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "rojo.webp",
+          "emojis": ["♥"]
+        },
+        {
+          "image_file": "punoa.webp",
+          "emojis": ["👨🏻‍⚕","👩🏻‍⚕"]
+        },
+        {
+          "image_file": "lentesa.webp",
+          "emojis": ["☕","🥧"]
+        },
+        {
+          "image_file": "silencioa.webp",
+          "emojis": ["🏃‍♀","🏃‍♂"]
+        },
+
+        {
+          "image_file": "cervezaa.webp",
+          "emojis": ["🍷","🥂"]
+        },
+        {
+          "image_file": "encadenadoa.webp",
+          "emojis": ["🚔","💍"]
+        },
+
+        {
+          "image_file": "rotoa.webp",
+          "emojis": ["💔"]
+        },
+        {
+          "image_file": "amora.webp",
+          "emojis": ["♥"]
+        },
+        {
+          "image_file": "diabloa.webp",
+          "emojis": ["😈","😈"]
+        },
+        {
+          "image_file": "angela.webp",
+          "emojis": ["😇","😇"]
+        },
+        {
+          "image_file": "campeonesa.webp",
+          "emojis": ["🤒","😷"]
+        },
+        {
+          "image_file": "brazoa.webp",
+          "emojis": ["💪"]
+        },
+        {
+          "image_file": "fuertea.webp",
+          "emojis": ["💪"]
+        },
+        {
+          "image_file": "puno2a.webp",
+          "emojis": ["💪"]
+        },
+        {
+          "image_file": "rezoa.webp",
+          "emojis": ["👏🏼"]
+        }
+      ,
+        {
+          "image_file": "regaloa.webp",
+          "emojis": ["🦌","👿"]
+        },
+        {
+          "image_file": "explosiona.webp",
+          "emojis": ["😡","🤯"]
+        },
+        {
+          "image_file": "olaa.webp",
+          "emojis": ["😁","👐🏼"]
+        },
+
+        {
+          "image_file": "santaa.webp",
+          "emojis": ["☃","❄"]
+        }
+
+      ,
+
+        {
+          "image_file": "paza.webp",
+          "emojis": ["✌🏽"]
+        }
+
+
+      ]
+    },
+
+    {
+      "identifier": "2",
+      "name": "Mas Stickers",
+      "publisher": "ToposDeus",
+      "tray_image_file": "logoa2.png",
+      "publisher_email":"toposdeus@gmail.com",
+      "publisher_website": "https://www.facebook.com/elmemedeldeporte/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bano.webp",
+          "emojis": ["🚑"]
+        },
+
+        {
+          "image_file": "dormira.webp",
+          "emojis": ["☕","🥧"]
+        },
+
+        {
+          "image_file": "genioa.webp",
+          "emojis": ["🚑","🚑"]
+        },
+        {
+          "image_file": "reya.webp",
+          "emojis": ["🏃‍♀","🏃‍♂"]
+        },
+
+        {
+          "image_file": "corazona.webp",
+          "emojis": ["♥"]
+        },
+
+        {
+          "image_file": "nogustaa.webp",
+          "emojis": ["👎"]
+        },
+        {
+          "image_file": "gustaa.webp",
+          "emojis": ["👍"]
+        },
+
+        {
+          "image_file": "copaa.webp",
+          "emojis": ["🕺🏻","💃🏻"]
+        },
+        {
+          "image_file": "fiestaa.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "biena.webp",
+          "emojis": ["✋🏼","👊🏻"]
+        },
+        {
+          "image_file": "billetesa.webp",
+          "emojis": ["🗑"]
+        },
+        {
+          "image_file": "dosa.webp",
+          "emojis": ["🗑"]
+        },
+        {
+          "image_file": "grosea.webp",
+          "emojis": ["🗑"]
+        },
+        {
+          "image_file": "presoa.webp",
+          "emojis": ["🗑"]
+        },
+        {
+          "image_file": "renoa.webp",
+          "emojis": ["🗑"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Stickers Escudos",
+      "publisher": "ToposDeus",
+      "tray_image_file": "logoa3.png",
+      "publisher_email":"toposdeus@gmail.com",
+      "publisher_website": "https://www.facebook.com/elmemedeldeporte/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "a1.webp",
+          "emojis": ["♥"]
+        },
+        {
+          "image_file": "a2.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "a3.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "a4.webp",
+          "emojis": ["❤"]
+        },
+
+        {
+          "image_file": "a5.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "a6.webp",
+          "emojis": ["💚"]
+        }
+
+
+      ]
+    }
+  ]
+}

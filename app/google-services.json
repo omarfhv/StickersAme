@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "730864663775",
+    "firebase_url": "https://stickers-america.firebaseio.com",
+    "project_id": "stickers-america",
+    "storage_bucket": "stickers-america.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730864663775:android:65c5d8d4f175ab80",
+        "android_client_info": {
+          "package_name": "com.games.user.amestickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730864663775-d08krn96mns8vcu6edhmkp5gld46p9i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDAsgFWxvqN0n-7noXZSfyM4bZ47xQOJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730864663775:android:836dacfb62203a35",
+        "android_client_info": {
+          "package_name": "com.games.user.cruzazulstickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730864663775-d08krn96mns8vcu6edhmkp5gld46p9i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDAsgFWxvqN0n-7noXZSfyM4bZ47xQOJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
